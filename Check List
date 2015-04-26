@@ -1,0 +1,6 @@
+Check List
+1) Copy VLC libs to Frameworks
+2) Copy VLC Plugins
+3) Remove some VLC plugins (libscreen_plugin.dylib libmacosx_plugin.dylib libqtcapture_plugin.dylib libqtsound_plugin.dylib)
+4) Copy images to Resource
+5) Signing 
